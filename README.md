@@ -6,5 +6,5 @@
 * 整个白色区域自适应宽度，右上方的人脸，名字部分相对浏览器右上角固定位置
 * 白色区域左侧列固定宽度，右侧列自适应宽度
 
-### 如何查看 
-
+### 查看 
+Click on this link to view: http://inmy.love/ife_layoutExercise/
